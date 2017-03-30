@@ -1,0 +1,22 @@
+{
+  "name": "simpla-elements",
+  "authors": [
+    "Simpla <friends@simpla.io>"
+  ],
+  "description": "Open catalogue of elements built on the Simpla content system",
+  "keywords": [
+    "element-collection",
+    "simpla",
+    "cms",
+    "content management",
+    "web components"
+  ],
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://www.simpla.io/elements",
+  "dependencies": {
+    "simpla-admin": "*",
+    "simpla-text": "*",
+    "simpla-img": "*"
+  }
+}
