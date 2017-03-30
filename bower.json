@@ -15,8 +15,8 @@
   "license": "MIT",
   "homepage": "https://www.simpla.io/elements",
   "dependencies": {
-    "simpla-text": "^0.1.7",
-    "simpla-img": "^0.1.6",
-    "simpla-admin": "^0.1.5"
+    "simpla-text": "latest",
+    "simpla-img": "latest",
+    "simpla-admin": "latest"
   }
 }
