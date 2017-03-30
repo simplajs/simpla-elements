@@ -18,5 +18,6 @@
     "simpla-text": "latest",
     "simpla-img": "latest",
     "simpla-admin": "latest"
-  }
+  },
+  "version": "0.1.0"
 }
