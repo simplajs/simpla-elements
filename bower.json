@@ -1,23 +1,23 @@
 {
   "name": "simpla-elements",
+  "version": "0.1.0",
   "authors": [
     "Simpla <friends@simpla.io>"
   ],
   "description": "Open catalogue of elements built on the Simpla content system",
   "keywords": [
-    "element-collection",
     "simpla",
     "cms",
     "content management",
-    "web components"
+    "web components",
+    "element-collection"
   ],
-  "main": "",
+  "main": "bower.json",
   "license": "MIT",
   "homepage": "https://www.simpla.io/elements",
   "dependencies": {
-    "simpla-text": "latest",
-    "simpla-img": "latest",
-    "simpla-admin": "latest"
-  },
-  "version": "0.1.0"
+    "simpla-text": "SimplaElements/simpla-text",
+    "simpla-img": "SimplaElements/simpla-img",
+    "simpla-admin": "SimplaElements/simpla-admin"
+  }
 }
