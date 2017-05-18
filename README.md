@@ -3,10 +3,6 @@
 
 This is an open catalogue of elements built on the [Simpla](https://www.simpla.io) content system. The catalogue is hosted on [simpla.io/elements][elements-catalogue] and [webcomponents.org][webcomponents-collection].
 
-## Creating a Simpla element
-
-It's easy to build your own custom Simpla elements, read the [element authoring guide](https://www.simpla.io/docs/creating-simpla-elements) to learn more.
-
 ## Publishing your element
 
 To publish your element to the Simpla catalogue:
@@ -46,13 +42,12 @@ Here are a few ways you can help push the Simpla project forward:
 
 - **Submit Pull Requests:** If you'd like to contribute directly to Simpla's development you can submit pull requests against any repository. Your PR should address an existing issue or have been discussed previously to ensure it gets merged.
 
----
+***
 
-MIT © Simpla <friends@simpla.io>
+MIT © [Simpla](https://www.simpla.io)
 
 [elements-catalogue]: https://www.simpla.io/elements
-[webcomponents-collection]: https://www.webcomponents.org/collections/simplaio/simpla-elements
-
+[webcomponents-collection]: https://www.webcomponents.org/collection/simplaio/simpla-elements
 [webcomponents-badge]: https://img.shields.io/badge/webcomponents.org-published-blue.svg
 [slack-badge]: https://slack.simpla.io/badge.svg
 [slack-url]: https://slack.simpla.io
