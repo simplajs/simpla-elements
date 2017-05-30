@@ -18,7 +18,7 @@
   "dependencies": {
     "simpla-text": "SimplaElements/simpla-text",
     "simpla-img": "SimplaElements/simpla-img",
-    "simpla-video": "SimplaElements/simpla-article",
+    "simpla-article": "SimplaElements/simpla-article",
     "simpla-collection": "SimplaElements/simpla-collection",
     "simpla-admin": "SimplaElements/simpla-admin",
     "simpla-link": "SimplaElements/simpla-link",
