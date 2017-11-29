@@ -2,7 +2,7 @@
   "name": "simpla-elements",
   "version": "0.1.2",
   "authors": [
-    "Simpla <friends@simpla.io>"
+    "Simpla contributors"
   ],
   "description": "Open catalogue of elements built on the Simpla content system",
   "keywords": [
@@ -16,12 +16,12 @@
   "license": "MIT",
   "homepage": "https://www.simpla.io/elements",
   "dependencies": {
-    "simpla-text": "SimplaElements/simpla-text",
-    "simpla-img": "SimplaElements/simpla-img",
-    "simpla-article": "SimplaElements/simpla-article",
-    "simpla-collection": "SimplaElements/simpla-collection",
-    "simpla-admin": "SimplaElements/simpla-admin",
-    "simpla-link": "SimplaElements/simpla-link",
-    "simpla-video": "SimplaElements/simpla-video"
+    "simpla-text": "simplaio/simpla-text",
+    "simpla-img": "simplaio/simpla-img",
+    "simpla-article": "simplaio/simpla-article",
+    "simpla-collection": "simplaio/simpla-collection",
+    "simpla-admin": "simplaio/simpla-admin",
+    "simpla-link": "simplaio/simpla-link",
+    "simpla-video": "simplaio/simpla-video"
   }
 }
