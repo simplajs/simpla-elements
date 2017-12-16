@@ -16,12 +16,12 @@
   "license": "MIT",
   "homepage": "https://www.simpla.io/elements",
   "dependencies": {
-    "simpla-text": "simplaio/simpla-text",
-    "simpla-img": "simplaio/simpla-img",
-    "simpla-article": "simplaio/simpla-article",
-    "simpla-collection": "simplaio/simpla-collection",
-    "simpla-admin": "simplaio/simpla-admin",
-    "simpla-link": "simplaio/simpla-link",
-    "simpla-video": "simplaio/simpla-video"
+    "simpla-text": "simplajs/simpla-text",
+    "simpla-img": "simplajs/simpla-img",
+    "simpla-article": "simplajs/simpla-article",
+    "simpla-collection": "simplajs/simpla-collection",
+    "simpla-admin": "simplajs/simpla-admin",
+    "simpla-link": "simplajs/simpla-link",
+    "simpla-video": "simplajs/simpla-video"
   }
 }
